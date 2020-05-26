@@ -8,6 +8,15 @@ Initialised: May 19, 2020
 
 Personal project to explore public data from the Alberta government.
 
+# Process
+
+1. Import and clean data
+2. WIP...
+
+# Packages
+
+NumPy, Pandas, Matplotlib, Seaborn
+
 # Data Source
 
 Full data:
